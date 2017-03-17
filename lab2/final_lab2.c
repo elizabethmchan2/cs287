@@ -8,6 +8,7 @@
    **getGaussian function is taken from
    https://en.wikipedia.org/wiki/Marsaglia_polar_method
    but is tweaked in order to work in C99 instead of Java
+   PARALLEL version
 
 */
 
