@@ -1,3 +1,11 @@
+/* Name: Elizabeth Chan
+   Email: lmchan@brynmawr.edu
+   Class: cs287: High Performance Scientific Computing
+   Description: Program multiplies matrices. Size of matrices defined by user. 
+
+   PARALLEL VERSION
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
